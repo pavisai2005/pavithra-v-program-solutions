@@ -1,1 +1,1 @@
-# pavithra-v-program-solutions
+week 1 solutions
