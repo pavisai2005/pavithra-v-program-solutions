@@ -39,7 +39,7 @@ function App() {
         <button onClick={() => sayMessage("Say welcome")}>Say Welcome</button>
         <button onClick={handlePress}>Click on me</button>
       </div>
-      <h3>Counter: {count}</h3> {/* ✅ Added line to display count */}
+      <h3>Counter: {count}</h3> {/*  Added line to display count */}
       <CurrencyConvertor />
     </div>
   );
